@@ -1,4 +1,4 @@
-# ***NumSpark(v-1.0.0) - A Python Library for Mathematical Operations***
+# ***NumSpark(v-1.0.1) - A Python Library for Mathematical Operations***
 
 ### NumSpark is a Python library that provides various mathematical operations and functionalities. It includes classes for handling arrays, vectors, complex numbers, and matrices, as well as a Statistics module for statistical calculations. The library also includes common mathematical functions like square root, exponent, logarithm, and trigonometric functions.
 

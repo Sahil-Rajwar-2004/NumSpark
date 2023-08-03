@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 
 name = "numspark"
-version = "1.0.0"
+version = "1.0.1"
 description = "A math library for python"
 author = "Sahil Rajwar"
 url = "https://github.com/Sahil-Rajwar-2004/NumSpark"

@@ -1,6 +1,6 @@
 Metadata-Version: 2.1
 Name: numspark
-Version: 1.0.0
+Version: 1.0.1
 Summary: A math library for python
 Home-page: https://github.com/Sahil-Rajwar-2004/NumSpark
 Author: Sahil Rajwar
@@ -17,7 +17,7 @@ Classifier: Programming Language :: Python :: 3.9
 Description-Content-Type: text/markdown
 License-File: LICENSE
 
-# ***NumSpark(v-1.0.0) - A Python Library for Mathematical Operations***
+# ***NumSpark(v-1.0.1) - A Python Library for Mathematical Operations***
 
 ### NumSpark is a Python library that provides various mathematical operations and functionalities. It includes classes for handling arrays, vectors, complex numbers, and matrices, as well as a Statistics module for statistical calculations. The library also includes common mathematical functions like square root, exponent, logarithm, and trigonometric functions.
 
