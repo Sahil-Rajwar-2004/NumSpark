@@ -1,16 +1,5 @@
 # ***NumSpark Library Changelog***
 ### ***All notable changes to the NumSpark library will be documented in this file.***
 
-1. ## **Reased**: (v-1.0.1) - 3rd August 2023
-
-    ## **Added**
-    - ### Initial release of NumSpark library.
-    - ### NumSparkArray class for handling arrays and basic array operations.
-    - ### Vector class for representing 3-dimensional vectors and vector operations.
-    - ### ComplexNumber class for handling complex numbers and basic complex number operations.
-    - ### Matrix class for performing matrix operations.
-    - ### Statistics module with mean, median, mode, variance, and standard deviation calculations.
-    - ### Mathematical functions like square root, logarithm, and trigonometric functions.
-
-    ## **Changed**
-    - ### NONE
+1. ## **Initial Release**: (v-1.0.0) - 3rd August 2023 ***depricated***
+2. ## ** v-1.2 - 8th August 2023 stable and fast **

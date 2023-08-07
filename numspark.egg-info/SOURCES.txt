@@ -5,4 +5,5 @@ numspark/__init__.py
 numspark.egg-info/PKG-INFO
 numspark.egg-info/SOURCES.txt
 numspark.egg-info/dependency_links.txt
+numspark.egg-info/requires.txt
 numspark.egg-info/top_level.txt

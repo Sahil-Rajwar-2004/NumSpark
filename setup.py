@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 
 name = "numspark"
-version = "1.0.1"
+version = "1.2"
 description = "A math library for python"
 author = "Sahil Rajwar"
 url = "https://github.com/Sahil-Rajwar-2004/NumSpark"
@@ -18,7 +18,7 @@ setup(
     author=author,
     url=url,
     packages=find_packages(),
-    install_requires=[],
+    install_requires=["numpy","sympy"],
     classifiers=[
         "Development Status :: 5 - Production/Stable",
         "Intended Audience :: Developers",
@@ -28,7 +28,7 @@ setup(
         "Programming Language :: Python :: 3.8",
         "Programming Language :: Python :: 3.9",
     ],
-    keywords="math library numpy alternative",
+    keywords="math library numpy-alternative sci-calc calc",
     project_urls={
         "Source": url,
         "Bug Reports": f"{url}/issues",
